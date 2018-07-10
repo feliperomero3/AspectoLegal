@@ -1,6 +1,6 @@
 # Aspecto Legal
 
-Conjunto de recursos legales auxiliares en la prestación de servicios profesionales de tecnologías de la información.
+Conjunto de recursos legales auxiliares en la prestación de servicios profesionales en tecnologías de la información.
 
 ## Contenido
 
@@ -9,3 +9,9 @@ Conjunto de recursos legales auxiliares en la prestación de servicios profesion
 3. [Contrato de hospedaje](/ContratoHospedaje.md)
 4. [Pólitica de privacidad](/PoliticaPrivacidad.md)
 5. [Declaración de asistencia técnica](/DeclaracionAsistenciaTecnica.md)
+
+## Licencia
+
+MIT License
+
+Copyright (c) 2018 Felipe Romero
